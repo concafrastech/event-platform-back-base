@@ -1,0 +1,7 @@
+node_modules/
+nbproject/
+logs/
+*.log
+*_logs.txt
+.env
+
