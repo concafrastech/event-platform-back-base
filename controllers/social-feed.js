@@ -9,7 +9,7 @@ function socialFeed(req, res) {
     var instagramPost = {};
     instagramPost.id = '';
     instagramPost.type = '';
-    instagramPost.src = '';
+    instagramPost.src = 'testing';
     instagramPost.date = '';
     instagramPost.thumbnail = '';
     instagramPost.text = '';
